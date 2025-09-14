@@ -11,7 +11,7 @@
 ## Quickstart
 
 ```
-git clone https://github.com/PatrickAlphaC/foundry-erc20-cu
+git clone https://github.com/awflick/Foundry-ERC20
 cd foundry-erc20-cu
 forge install 
 forge build
